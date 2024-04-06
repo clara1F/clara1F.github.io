@@ -106,8 +106,12 @@ cursor: pointer;
     position: relative;
 }
 
-.colours .option.selected {
-    border-radius: 50%;
+.colours .option {
+    height: 22px;
+    width: 22px;
+    margin-top: 3px;
+    position: relative;
+    border-radius: 50%; 
 }
 
 
